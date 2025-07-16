@@ -1,6 +1,6 @@
 ---
-title: "Oh my its my birthday wow"
+title: "My Birthday"
 date: '2025-04-15'
 ---
-wow its my birthday
+Oh wow its my birthday yippee!
 
